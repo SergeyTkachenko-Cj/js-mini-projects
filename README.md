@@ -1,3 +1,3 @@
-Small JavaScript projects for learning purposes
+Small JavaScript/TypeScript projects for learning purposes
 
 Featuring: exceptions | prototypes | classes | recursion | linting | ...
